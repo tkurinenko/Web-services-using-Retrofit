@@ -6,8 +6,8 @@ POJO class to save data from server
 
 add library to gradle (app)
 
-compile 'com.squareup.retrofit:retrofit:1.9.0'
-compile 'com.squareup.okhttp:okhttp:2.4.0' 
+( compile 'com.squareup.retrofit:retrofit:1.9.0'
+compile 'com.squareup.okhttp:okhttp:2.4.0' )
 
 to make POJO class in Retrofit use :
 
